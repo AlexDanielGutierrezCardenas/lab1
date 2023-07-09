@@ -1,0 +1,11 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "laboratorio1",
+  "main": "es2023.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AlexDanielGutierrezCardenas",
+  "license": "ISC"
+}
